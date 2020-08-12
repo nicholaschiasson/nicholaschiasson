@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Let's build cool stuff together!
+
+### Special Thanks 🙏
+
 <!--
 **nicholaschiasson/nicholaschiasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
