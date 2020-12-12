@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 I haven't put much thought yet into what I should display in this section, so here are some stats you can look at!
 
 [![nicholaschiasson's github stats](https://github-readme-stats.vercel.app/api?username=nicholaschiasson&count_private=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&bg_color=00000000&text_color=27e8a7)](https://github.com/anuraghazra/github-readme-stats)
-[![nicholaschiasson's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicholaschiasson&count_private=true&show_icons=true&hide_border=true&langs_count=10&layout=compact&bg_color=00000000&text_color=27e8a7&exclude_repo=car%2CW3DL%2Ceuchre%2Clove-maker%2Csnatch3d-vr%2Caffliction%2Cd00m3d%2CSnatch%2CPlanetCiv%2Claser-pong%2CKillTheSnowman%2CN3DIL%2Cminesweeper%2Cfocus%2Cnai%2Cphysically-based-rendering%2Ccheckers%2Cnnl%2Cenigma-machine%2Cnihon-db%2Caether-drive%2CIlleGuru%2CMyClockIn%2CKIRAA%2CMagicRealm%2CCMWAN%2CNiGeimu)](https://github.com/anuraghazra/github-readme-stats)
+[![nicholaschiasson's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicholaschiasson&count_private=true&show_icons=true&hide_border=true&langs_count=10&layout=compact&bg_color=00000000&text_color=27e8a7&hide=GLSL,HLSL,Perl,ShaderLab&exclude_repo=MagicRealm)](https://github.com/anuraghazra/github-readme-stats)
+
+:crab: Currently working on bringing _Rust_ to the top of that most used languages list!
