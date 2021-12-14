@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I haven't put much thought yet into what I should display in this section, so here are some stats you can look at!
 
 [![nicholaschiasson's github stats](https://github-readme-stats.vercel.app/api?username=nicholaschiasson&count_private=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats&bg_color=00000000&text_color=27e8a7)](https://github.com/anuraghazra/github-readme-stats)
-[![nicholaschiasson's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicholaschiasson&count_private=true&show_icons=true&hide_border=true&langs_count=10&layout=compact&bg_color=00000000&text_color=27e8a7&hide=GLSL,HLSL,Perl,ShaderLab&exclude_repo=MagicRealm)](https://github.com/anuraghazra/github-readme-stats)
+[![nicholaschiasson's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=nicholaschiasson&count_private=true&show_icons=true&hide_border=true&langs_count=10&layout=compact&bg_color=00000000&text_color=27e8a7&hide=GLSL,HLSL,ShaderLab&exclude_repo=MagicRealm)](https://github.com/anuraghazra/github-readme-stats)
 
 :crab: Currently working on bringing _Rust_ to the top of that most used languages list!
