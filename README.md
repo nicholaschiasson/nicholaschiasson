@@ -51,6 +51,8 @@ I am trying to build up my skills with various rust frameworks such as [Bevy](ht
 
 Though I used python extensively in school, I have never used it professionally.
 
+:computer: I use [VSCodium](https://github.com/VSCodium) when I'm feeling lazy (most of the time lol), and [Alacritty](https://github.com/alacritty), [Zellij](https://github.com/zellij-org), [Nushell](https://github.com/nushell), and [Helix](https://github.com/helix-editor) when I'm not.
+
 ### The Numbers Don't Lie
 
 📈 Below are some stats derived from my GitHub activity. They are nothing to be too proud of. I hope to improve upon them with time.
