@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 #### Projects
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 I had a problem with the English language. [So I changed it](https://github.com/nicholaschiasson/ingLix).
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 I had a problem with the English language. [So I changed it](https://github.com/nicholaschiasson/inglix).
 
 🌐 I'm revamping [my personal website](https://nicholaschiasson.github.io) now. It's in desperate need of a facelift.
 
