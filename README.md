@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I had a problem with the English language. [So I changed it](https://github.com/nicholaschiasson/inglix).
 
-🌐 I'm revamping [my personal website](https://nicholaschiasson.github.io) now. It's in desperate need of a facelift.
+🍎 I wrote a library for applying [set theory on IP ranges](https://github.com/nicholaschiasson/fcidr).
+
+🔔 I wanted to get scheduled push notifications about when to raise and lower my new standing desk so I built a fun [command line reminders app](https://github.com/nicholaschiasson/oytr).
+
+🌐 I'm revamping [my personal website](https://nicholaschiasson.github.io) now since it's in desperate need of a facelift.
 
 Frankly, I don't have much more to boast about. Come back later and maybe I will.
 
