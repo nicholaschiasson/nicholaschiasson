@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 🔔 I wanted to get scheduled push notifications about when to raise and lower my new standing desk so I built a fun [command line reminders app](https://github.com/nicholaschiasson/oytr).
 
-🌐 I'm revamping [my personal website](https://nicholaschiasson.github.io) now since it's in desperate need of a facelift.
+🌐 I'm working on a little blog for [my personal website](https://nicholaschiasson.github.io), not that I actually regularly write blog posts. I just had a cheeky idea for the backend.
 
 Frankly, I don't have much more to boast about. Come back later and maybe I will.
 
