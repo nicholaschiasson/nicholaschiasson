@@ -52,6 +52,7 @@ Frankly, I don't have much more to boast about. Come back later and maybe I will
 I work with these. Some more than others. Java is on the tail of the list for a reason.
 
 [![Rust](https://www.rust-lang.org/logos/rust-logo-32x32.png)](https://www.rust-lang.org/)
+[<img alt="Go" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width=32 height=32>](https://go.dev/)
 [![Python](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_32x32.png)](https://www.python.org/)
 [![C#](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp_32x32.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![TypeScript](https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_32x32.png)](https://www.typescriptlang.org/)
