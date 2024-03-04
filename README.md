@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <details>
 
-  <summary><h4>About Me (Verbose)</h4></summary>
+  <summary>About Me (Verbose)</summary>
 
   My name is Nicholas Omer Chiasson. Here and there I may go by Nick, Nicky C, Nicky Bicky, Sticholas, Bix, or even Baby Calves, among other aliases.
 
