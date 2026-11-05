@@ -13,25 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Welcome! Bienvenue! Agus fàilte! 👋
+## Hello! 👋
 
-<details>
-
-  <summary>About Me (Verbose)</summary>
-
-  My name is Nicholas Omer Chiasson. Here and there I may go by Nick, Nicky C, Nicky Bicky, Sticholas, Bix, or even Baby Calves, among other aliases.
-
-  Professionally, I build, evolve, and maintain microservices in a complex web API platform striving to enrich the online experience of the games industry.
-
-  Outside of work, the projects I tend to work on admittedly produce next to no practical value aside from providing me with excuses to continue learning and developing my skills.
-
-  You might say I love to work on pointless projects, but the truth is that the only ideas I ever come up with that spark my passion simply are not million dollar ideas. If I get an idea that interests me, I run with it. Most of the time, it's a dumb idea.
-
-  In spite of that, I try to embrace the philosophy that it's better to embark on a journey with no prize at the end than to do nothing at all.
-
-  In the end, I like to keep things light hearted, as you can perhaps tell by my overly verbose and casual writing style for which I have ignored advice suggesting against publishing on the open internet for all to bear witness to. Above all, I am seeking chances to grow and build.
-
-</details>
+Thanks for dropping by my GitHub. Allow me to share a bit about myself.
 
 ### What I Do
 
@@ -43,7 +27,7 @@ Here are some ideas to get you started:
 
 🔔 I wanted to get scheduled push notifications about when to raise and lower my new standing desk so I built a fun [command line reminders app](https://github.com/nicholaschiasson/oytr).
 
-🌐 I'm working on a little blog for [my personal website](https://nicholaschiasson.github.io), not that I actually regularly write blog posts. I just had a cheeky idea for the backend.
+🌐 I have a little blog for [my personal website](https://nicholaschiasson.github.io) that I don't really publish to but still intend to some day.
 
 Frankly, I don't have much more to boast about. Come back later and maybe I will.
 
@@ -63,15 +47,17 @@ I work with these. Some more than others. Java is on the tail of the list for a 
 
 ### What I Like
 
-🦀 Amateur as I am, I am very enthusiastic about the [Rust](https://github.com/rust-lang/) programming language.
+🦀 I am quite enthusiastic about the [Rust](https://github.com/rust-lang/) programming language.
 
-I am trying to build up my skills with various rust frameworks such as [Bevy](https://github.com/bevyengine) for game development as well as [Actix](https://github.com/actix) and [Yew](https://github.com/yewstack) for web.
+I have some professional experience now using the [Axum](https://github.com/tokio-rs/axum) backend framework.
 
 🐍 I really enjoy [Python](https://www.python.org) for writing short programs very quickly.
 
 Though I used python extensively in school, I have never used it professionally.
 
-:computer: I use [VSCodium](https://github.com/VSCodium) when I'm feeling lazy (most of the time lol), and [Alacritty](https://github.com/alacritty), [Zellij](https://github.com/zellij-org), [Nushell](https://github.com/nushell), and [Helix](https://github.com/helix-editor) when I'm not.
+🐹 I am trying to build my skills more with the [Go](https://go.dev) programming language.
+
+:computer: I am using [Zed](https://zed.dev/) most of the time now to write code with the [Helix](https://github.com/helix-editor) key bindings enabled. I use [Alacritty](https://github.com/alacritty) and [Zellij](https://github.com/zellij-org) for the terminal and mainly just use zsh, although I really enjoy [Nushell](https://github.com/nushell) as well, just not as a daily driver.
 
 ### The Numbers Don't Lie
 
